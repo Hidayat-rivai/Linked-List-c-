@@ -31,4 +31,6 @@ Specification when i write these applications for the first time:
 18. [ Input Urut dari Kecil ke Besar (prev and next) ](https://github.com/Hidayat-rivai/struktur_data18/) 
 19. [ Input Sisip (prev and next) ](https://github.com/Hidayat-rivai/struktur_data19/) 
 20. [ Input di Awal dan Akhir Bergantian (prev and next) ](https://github.com/Hidayat-rivai/struktur_data20/) 
+21. [ Input di Awal (circular - prev and next) ](https://github.com/Hidayat-rivai/struktur_data21/) 
+22. [ Input di Akhir (circular - prev and next) ](https://github.com/Hidayat-rivai/struktur_data22/) 
 
