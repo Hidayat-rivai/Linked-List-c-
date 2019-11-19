@@ -15,3 +15,4 @@ Specification when i write these applications for the first time:
 2. [ Input Di Akhir (only next) ](https://github.com/Hidayat-rivai/struktur_data02/) 
 3. [ Input Urut Besar Ke Kecil (only next) ](https://github.com/Hidayat-rivai/struktur_data03/) 
 4. [ Input Urut Kecil Ke Besar (only next) ](https://github.com/Hidayat-rivai/struktur_data04/) 
+5. [ Input Sisip (only next) ](https://github.com/Hidayat-rivai/struktur_data05/) 
