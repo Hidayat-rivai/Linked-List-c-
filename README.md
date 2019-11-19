@@ -52,5 +52,5 @@ Specification when i write these applications for the first time:
 39. [ Hapus Semua Cari (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data39/) 
 40. [ Hapus di Awal dan Akhir Bergantian (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data40/) 
 41. [ Hapus di Awal (prev and next) ](https://github.com/Hidayat-rivai/struktur_data41/) 
-41. [ Hapus di Akhir (prev and next) ](https://github.com/Hidayat-rivai/struktur_data42/) 
+41. [ Hapus Cari (prev and next) ](https://github.com/Hidayat-rivai/struktur_data43/) 
 
