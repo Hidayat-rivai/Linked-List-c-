@@ -24,4 +24,5 @@ Specification when i write these applications for the first time:
 11. [ Input Sisip (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data11/) 
 12. [ Input di Awal dan Akhir Bergantian (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data12/) 
 13. [ Susun Nilai (only next) ](https://github.com/Hidayat-rivai/struktur_data13/) 
+14. [ Susun Nilai (only next) ](https://github.com/Hidayat-rivai/struktur_data14/) 
 
