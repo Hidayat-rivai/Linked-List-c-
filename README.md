@@ -20,4 +20,7 @@ Specification when i write these applications for the first time:
 7. [ Input di Awal (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data07/) 
 8. [ Input di Akhir (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data08/) 
 9. [ Input Urut Kecil ke Besar (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data09/) 
+10. [ Input Urut Besar ke Kecil (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data10/) 
+11. [ Input Sisip (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data11/) 
+12. [ Input di Awal dan Akhir Bergantian (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data12/) 
 
