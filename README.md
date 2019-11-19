@@ -40,5 +40,6 @@ Specification when i write these applications for the first time:
 27. [ Susun Nilai (prev and next) ](https://github.com/Hidayat-rivai/struktur_data27/) 
 28. [ Susun Nilai (circular - prev and next) ](https://github.com/Hidayat-rivai/struktur_data28/) 
 29. [ Hapus di Awal (only next) ](https://github.com/Hidayat-rivai/struktur_data29/) 
+30. [ Hapus di Akhir (only next) ](https://github.com/Hidayat-rivai/struktur_data30/) 
 
 
