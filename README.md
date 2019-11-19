@@ -48,4 +48,5 @@ Specification when i write these applications for the first time:
 35. [ Input 0 Otomatis dan Isi (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data35/) 
 36. [ Hapus di Awal (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data36/) 
 37. [ Hapus di Akhir (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data37/) 
-38. [ Hapus Cari (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data37/) 
+38. [ Hapus Cari (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data38/) 
+39. [ Hapus Semua Cari (circular - only next) ](https://github.com/Hidayat-rivai/struktur_data39/) 
