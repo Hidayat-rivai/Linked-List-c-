@@ -11,4 +11,4 @@ Specification when i write these applications for the first time:
 - Year : 2015
 
 ## Application
-[ 1. Input Di Awal (only next) ](https://pages.github.com/). 
+[ 1. Input Di Awal (only next) ](https://https://github.com/Hidayat-rivai/struktur_data01/). 
