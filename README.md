@@ -42,5 +42,7 @@ Specification when i write these applications for the first time:
 29. [ Hapus di Awal (only next) ](https://github.com/Hidayat-rivai/struktur_data29/) 
 30. [ Hapus di Akhir (only next) ](https://github.com/Hidayat-rivai/struktur_data30/) 
 31. [ Hapus Cari (only next) ](https://github.com/Hidayat-rivai/struktur_data31/) 
+32. [ Hapus Cari Semua (only next) ](https://github.com/Hidayat-rivai/struktur_data32/) 
+33. [ Hapus di Awal dan Akhir Bergantian (only next) ](https://github.com/Hidayat-rivai/struktur_data33/) 
 
 
