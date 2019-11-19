@@ -11,5 +11,5 @@ Specification when i write these applications for the first time:
 - Year : 2015
 
 ## Application
-[ 1. Input Di Awal (only next) ](https://github.com/Hidayat-rivai/struktur_data01/). 
-[ 2. Input Di Akhir (only next) ](https://github.com/Hidayat-rivai/struktur_data02/). 
+1. [ Input Di Awal (only next) ](https://github.com/Hidayat-rivai/struktur_data01/). 
+2. [ Input Di Akhir (only next) ](https://github.com/Hidayat-rivai/struktur_data02/). 
