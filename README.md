@@ -61,4 +61,7 @@ Specification when i write these applications for the first time:
 48. [ Hapus Cari (circular - prev and next) ](https://github.com/Hidayat-rivai/struktur_data48/) 
 49. [ Hapus Semua Cari (circular - prev and next) ](https://github.com/Hidayat-rivai/struktur_data49/) 
 50. [ Hapus di Awal dan Akhir Bergantian (circular - prev and next) ](https://github.com/Hidayat-rivai/struktur_data50/) 
+51. [ (SP) Restoran Kentang (Input Awal - Hapus Awal) ](https://github.com/Hidayat-rivai/struktur_data51/) 
+52. [ (SP) Restoran Kentang (Input Awal - Hapus Akhir) ](https://github.com/Hidayat-rivai/struktur_data52/) 
+53. [ (SP) Restoran Kentang (Input Awal - Hapus Cari) ](https://github.com/Hidayat-rivai/struktur_data53/) 
 
