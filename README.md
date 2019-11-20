@@ -11,6 +11,8 @@ Specification when i write these applications for the first time:
 - Year : 2015
 
 ## Application
+0. [ (SP) Restoran Kentang ](https://github.com/Hidayat-rivai/Linked-List-c/) 
+
 1. [ Input Di Awal (only next) ](https://github.com/Hidayat-rivai/struktur_data01/)
 2. [ Input Di Akhir (only next) ](https://github.com/Hidayat-rivai/struktur_data02/) 
 3. [ Input Urut Besar Ke Kecil (only next) ](https://github.com/Hidayat-rivai/struktur_data03/) 
@@ -71,3 +73,7 @@ Specification when i write these applications for the first time:
 58. [ (SP) Restoran Kentang (Input Cari - Hapus Awal) ](https://github.com/Hidayat-rivai/struktur_data58/) 
 59. [ (SP) Restoran Kentang (Input Cari - Hapus Cari) ](https://github.com/Hidayat-rivai/struktur_data59/) 
 60. [ (SP) Buku - List Berkait ](https://github.com/Hidayat-rivai/struktur_data60/) 
+61. [ Sliding Game ](https://github.com/Hidayat-rivai/struktur_data61/) 
+62. [ Sliding Game 2nd Version ](https://github.com/Hidayat-rivai/struktur_data62/) 
+63. [ (SP - Ujian) Hapus selisih terdekat (Array) ](https://github.com/Hidayat-rivai/struktur_data63/) 
+64. [ (SP - Ujian) Hapus selisih terdekat (List Berkait) ](https://github.com/Hidayat-rivai/struktur_data64/) 
