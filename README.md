@@ -67,3 +67,6 @@ Specification when i write these applications for the first time:
 54. [ (SP) Restoran Kentang (Input Akhir - Hapus Awal) ](https://github.com/Hidayat-rivai/struktur_data54/) 
 55. [ (SP) Restoran Kentang (Input Akhir - Hapus Akhir) ](https://github.com/Hidayat-rivai/struktur_data55/) 
 56. [ (SP) Restoran Kentang (Input Akhir - Hapus Cari) ](https://github.com/Hidayat-rivai/struktur_data56/) 
+57. [ (SP) Restoran Kentang (Input Cari - Hapus Akhir) ](https://github.com/Hidayat-rivai/struktur_data57/) 
+58. [ (SP) Restoran Kentang (Input Cari - Hapus Awal) ](https://github.com/Hidayat-rivai/struktur_data58/) 
+59. [ (SP) Restoran Kentang (Input Cari - Hapus Cari) ](https://github.com/Hidayat-rivai/struktur_data59/) 
